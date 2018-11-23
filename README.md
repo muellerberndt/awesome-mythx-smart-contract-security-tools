@@ -8,8 +8,6 @@ A list of smart contract security tools that use [Mythril Platform](https://myth
 
 ## Command line tools
 
-- [Sabre](https://github.com/b-mueller/sabre) - Mythril Platform light client written in JavaScript
-
 ## Continuous Integration
 
 - [Guardrails](https://www.guardrails.io) - GuardRails integrates into the Github development workflow and provides direct security feedback.
