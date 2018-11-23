@@ -1,6 +1,6 @@
 # Mythril Platform Tools
 
-A list of smart contract security tools that use Mythril Platform.
+A list of smart contract security tools that use [Mythril Platform](https://mythril.ai).
 
 ## SDKs and Libraries
 
