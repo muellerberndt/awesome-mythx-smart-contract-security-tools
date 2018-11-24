@@ -1,4 +1,4 @@
-# Mythril Platform Tools
+# Mythril Tools
 
 A list of smart contract security tools that use [Mythril Platform](https://mythril.ai).
 
@@ -18,3 +18,8 @@ A list of smart contract security tools that use [Mythril Platform](https://myth
 - Truffle Plugin
 - Embark Plugin
 - VSCode Solidity
+
+## Other / Mythril Classic
+
+- [Karl](https://github.com/cleanunicorn/karl) - Monitor contracts deployed on the blockchain for vulnerabilities
+
