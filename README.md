@@ -8,7 +8,7 @@ A list of smart contract security tools that use [Mythril Platform](https://myth
 
 ## Command line tools
 
-- [Mythril-API-CURL](https://github.com/rocky/mythril-api-curl/)
+- [Mythril API Shell Scripts](https://github.com/rocky/mythril-api-curl/)
 
 ## Continuous Integration
 
@@ -18,8 +18,6 @@ A list of smart contract security tools that use [Mythril Platform](https://myth
 ## IDE
 
 - Truffle Plugin
-- Embark Plugin
-- VSCode Solidity
 
 ## Other / Mythril Classic
 
