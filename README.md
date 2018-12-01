@@ -8,7 +8,7 @@ A list of smart contract security tools that use [Mythril Platform](https://myth
 
 ## Command line tools
 
-- [Mythril API Shell Scripts](https://github.com/rocky/mythril-api-curl/)
+- [Mythril API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with Mythril Platform
 
 ## Continuous Integration
 
