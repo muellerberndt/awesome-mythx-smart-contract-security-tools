@@ -1,6 +1,6 @@
 # Mythril Tools
 
-A list of smart contract security tools that use [Mythril Platform](https://mythril.ai).
+A list of smart contract security tools that build on [Mythril Platform](https://mythril.ai).
 
 ## Libraries
 
@@ -23,4 +23,3 @@ A list of smart contract security tools that use [Mythril Platform](https://myth
 
 - [Karl](https://github.com/cleanunicorn/karl) - Monitor contracts deployed on the blockchain for vulnerabilities
 - [Scrooge McEtherface](https://github.com/b-mueller/scrooge-mcetherface/blob/master/README.md) - Fully automated smart contract attack tool
-
