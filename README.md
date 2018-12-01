@@ -2,11 +2,13 @@
 
 A list of smart contract security tools that use [Mythril Platform](https://mythril.ai).
 
-## SDKs and Libraries
+## Libraries
 
-- [Armlet](https://github.com/ConsenSys/armlet) - Mythril Platform JavaScript library
+- [Armlet](https://github.com/ConsenSys/armlet) - Mythril Platform JavaScript connector
 
 ## Command line tools
+
+- [Mythril-API-CURL](https://github.com/rocky/mythril-api-curl/)
 
 ## Continuous Integration
 
