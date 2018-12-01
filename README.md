@@ -22,4 +22,5 @@ A list of smart contract security tools that use [Mythril Platform](https://myth
 ## Other / Mythril Classic
 
 - [Karl](https://github.com/cleanunicorn/karl) - Monitor contracts deployed on the blockchain for vulnerabilities
+- [Scrooge McEtherface](https://github.com/b-mueller/scrooge-mcetherface/blob/master/README.md) - Fully automated smart contract attack tool
 
