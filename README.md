@@ -1,14 +1,16 @@
 # Mythril Tools
 
-A list of smart contract security tools that build on [Mythril Platform](https://mythril.ai).
+A list of smart contract security tools that build on [MythX](https://mythx.io).
 
 ## Libraries
 
-- [Armlet](https://github.com/ConsenSys/armlet) - Mythril Platform JavaScript connector
+- [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector
+- [Shard](https://github.com/ConsenSys/armlet) - MythX Platform light client written in Golang
 
 ## Command line tools
 
-- [Mythril API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with Mythril Platform
+- [Mythril API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
+- [Sabre](https://github.com/b-mueller/sabre/) - Quick-and-dirty CLI for MythX
 
 ## Continuous Integration
 
@@ -17,7 +19,7 @@ A list of smart contract security tools that build on [Mythril Platform](https:/
 
 ## IDE
 
-- Truffle Plugin
+- [Truffle-Analyze](https://github.com/ConsenSys/truffle-analyze) - Security Verification Plugin for Truffle
 
 ## Other / Mythril Classic
 
