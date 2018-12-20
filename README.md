@@ -9,8 +9,8 @@ A list of smart contract security tools that build on [MythX](https://mythx.io).
 ## Command line tools
 
 - [MythX API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
-- [Shard](https://github.com/ConsenSys/armlet) - MythX Platform light client written in Golang
-- [Sabre](https://github.com/b-mueller/sabre/) - Quick-and-dirty CLI for MythX
+- [Shard](https://github.com/JoranHonig/shard) - MythX Platform light client written in Golang
+- [Sabre](https://github.com/b-mueller/sabre) - Quick-and-dirty CLI for MythX
 
 ## Continuous Integration
 
