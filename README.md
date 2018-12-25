@@ -1,4 +1,4 @@
-# Mythril Tools
+# MythX Tools
 
 A list of smart contract security tools that build on [MythX](https://mythx.io).
 
