@@ -21,7 +21,3 @@ A list of smart contract security tools that build on [MythX](https://mythx.io).
 
 - [Truffle-Analyze](https://github.com/ConsenSys/truffle-analyze) - Security Verification Plugin for Truffle
 
-## Other / Mythril Classic
-
-- [Karl](https://github.com/cleanunicorn/karl) - Monitor contracts deployed on the blockchain for vulnerabilities
-- [Scrooge McEtherface](https://github.com/b-mueller/scrooge-mcetherface/blob/master/README.md) - Fully automated smart contract attack tool
