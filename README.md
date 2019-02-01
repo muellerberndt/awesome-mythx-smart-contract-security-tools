@@ -21,3 +21,7 @@ A list of smart contract security tools that build on [MythX](https://mythx.io).
 
 - [Truffle-Analyze](https://github.com/ConsenSys/truffle-analyze) - Security Verification Plugin for Truffle
 
+## Resources
+
+- [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
+- [Developer support and bug reports](https://github.com/ConsenSys/mythx-developer-support)
