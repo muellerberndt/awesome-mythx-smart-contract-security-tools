@@ -26,7 +26,7 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 
 - [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
 - [Github repo for reporting bugs](https://github.com/ConsenSys/mythx-developer-support)
-- [Discord](https://discord.gg/kktn8Wt)
+- [MythX Community Discord](https://discord.gg/kktn8Wt)
 
 ## Papers and Articles
 
