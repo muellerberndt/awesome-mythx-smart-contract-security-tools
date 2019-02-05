@@ -1,4 +1,5 @@
 # Awesome MythX Tools
+[![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
 A list of smart contract security tools that build on [MythX](https://mythx.io).
 
@@ -25,4 +26,5 @@ A list of smart contract security tools that build on [MythX](https://mythx.io).
 ## Resources
 
 - [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
-- [Developer support and bug reports](https://github.com/ConsenSys/mythx-developer-support)
+- [Github repo for reporting bugs](https://github.com/ConsenSys/mythx-developer-support)
+- [Discord](https://discord.gg/kktn8Wt)
