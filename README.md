@@ -1,7 +1,7 @@
 # Awesome MythX Tools
 [![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
-A list of smart contract security tools that build on [MythX](https://mythx.io).
+A list of smart contract security tools that build on [MythX](https://mythx.io), a security analysis API for Ethereum smart contracts.
 
 ## Language Bindings
 
