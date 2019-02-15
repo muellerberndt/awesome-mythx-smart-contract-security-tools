@@ -1,7 +1,9 @@
 # Awesome MythX Smart Contract Security
+
 [![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
 A curated list of resources and tools for the [MythX](https://mythx.io) smart contract security API.
+All of this is pre-beta stuff, use at your own risk.
 
 ## Language Bindings
 
@@ -15,12 +17,8 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 
 ## IDE
 
-- [Truffle Security Plugin](https://github.com/ConsenSys/truffle-security) - Security Verification Plugin for the [Truffle Framework](https://truffleframework.com)
-
-## Continuous Integration
-
-- [Guardrails](https://www.guardrails.io) - GuardRails integrates into the Github development workflow and provides direct security feedback.
-- [Heimdall](https://heimdall.maddevs.io) - Keeps track of the Mythril security reports and display their statuses as a badge in the Github repository.
+- [Truffle Security Plugin](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
+- [Remix Plugin](https://github.com/uivlis/remix-mythx-plugin) - Security verification plugin for [Remix IDE](https://remix.ethereum.org)
 
 ## Support and Documentation
 
