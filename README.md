@@ -18,7 +18,6 @@ All of this is pre-beta stuff, use at your own risk.
 ## IDE
 
 - [Truffle Security Plugin](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
-- [Remix Plugin](https://github.com/uivlis/remix-mythx-plugin) - Security verification plugin for [Remix IDE](https://remix.ethereum.org)
 
 ## Support and Documentation
 
