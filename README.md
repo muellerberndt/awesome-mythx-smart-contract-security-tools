@@ -17,7 +17,7 @@ All of this is pre-beta stuff, use at your own risk.
 
 ## IDE
 
-- [Truffle Security Plugin](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
+- [Truffle Security](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
 
 ## Support and Documentation
 
