@@ -27,7 +27,7 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 ## Papers and Articles
 
 - [MythX Announcement Article](https://media.consensys.net/mythril-platform-api-is-upping-the-smart-contract-security-game-eee1d2642488)
-- [Article Series on Harvey Part 1](https://medium.com/consensys-diligence/finding-vulnerabilities-in-smart-contracts-175c56affe2)
+- [Article Series on Input Fuzzing Part 1](https://medium.com/consensys-diligence/finding-vulnerabilities-in-smart-contracts-175c56affe2)
 - [Fuzzing Smart Contracts Using Input Prediction](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-input-prediction-29b30ba8055c)
 - [Fuzzing Smart Contracts Using Multiple Transactions](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-multiple-transactions-51471e4b3c69)
 - [Harvey Paper - Learning Inputs in Greybox Fuzzing](https://arxiv.org/pdf/1807.07875.pdf)
