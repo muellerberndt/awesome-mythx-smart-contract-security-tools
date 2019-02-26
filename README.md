@@ -3,12 +3,11 @@
 [![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
 A curated list of resources and tools for the [MythX](https://mythx.io) smart contract security API.
-All of this is pre-beta stuff, use at your own risk.
 
 ## Language Bindings
 
 - [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector
-- [Shard](https://github.com/JoranHonig/shard) - MythX Platform light client written in Golang
+- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform
 
 ## Command line tools
 
