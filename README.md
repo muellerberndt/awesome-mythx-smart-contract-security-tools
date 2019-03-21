@@ -35,3 +35,4 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 - [Harvey Paper - Learning Inputs in Greybox Fuzzing](https://arxiv.org/pdf/1807.07875.pdf)
 - [Intro to Symbolic Execution in Mythril](https://medium.com/@joran.honig/introduction-to-mythril-classic-and-symbolic-execution-ef59339f259b)
 - [Mythril Paper - Smashing Smart Contracts](https://conference.hitb.org/hitbsecconf2018ams/materials/D1T2%20-%20Bernhard%20Mueller%20-%20Smashing%20Ethereum%20Smart%20Contracts%20for%20Fun%20and%20ACTUAL%20Profit.pdf)
+- [Why You Should Buidl on MythX API](https://medium.com/consensys-diligence/why-you-should-buidl-on-mythx-api-and-earn-revenue-share-in-dai-13d8bc7ca803)
