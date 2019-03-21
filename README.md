@@ -17,12 +17,12 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 
 ## IDE
 
-- [Truffle Security](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
+- [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
 
 ## Support and Documentation
 
 - [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
-- [Github repo for reporting bugs](https://github.com/ConsenSys/mythx-developer-support)
+- [Github repo for reporting API bugs](https://github.com/ConsenSys/mythx-developer-support)
 - [MythX Community Discord](https://discord.gg/kktn8Wt)
 
 ## Papers and Articles
