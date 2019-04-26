@@ -7,7 +7,7 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 ## Language Bindings
 
 - [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector
-- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform
+- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
 
 ## Command line tools
 
@@ -18,6 +18,7 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 ## IDE
 
 - [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
+- [Truffle Sca2t](truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
 
 ## Support and Documentation
 
@@ -25,9 +26,13 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 - [Github repo for reporting API bugs](https://github.com/ConsenSys/mythx-developer-support)
 - [MythX Community Discord](https://discord.gg/kktn8Wt)
 
+## Howtos
+
+- [Detecting Smart Contract Vulnerabilities with Mythx](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
+- [Automation of Smart Contract Auditing with MythX and CircleCI](https://blog.goodaudience.com/automation-of-smart-contract-auditing-with-mythx-and-circleci-for-continuous-integration-191ec7adfc94)
+
 ## Papers and Articles
 
-- [MythX Announcement Article](https://media.consensys.net/mythril-platform-api-is-upping-the-smart-contract-security-game-eee1d2642488)
 - [The Tech Behind MythX](https://medium.com/consensys-diligence/the-tech-behind-mythx-smart-contract-security-analysis-32c849aedaef)
 - [Harvey Greybox Fuzzing Article Series Part 1](https://medium.com/consensys-diligence/finding-vulnerabilities-in-smart-contracts-175c56affe2)
 - [Fuzzing Smart Contracts Using Input Prediction](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-input-prediction-29b30ba8055c)
