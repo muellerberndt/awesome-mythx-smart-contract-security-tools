@@ -19,6 +19,7 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 
 - [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
 - [Truffle Sca2t](truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
+- [MythX Plugin for Embark Framework](https://github.com/flex-dapps/embark-mythx)
 
 ## Support and Documentation
 
