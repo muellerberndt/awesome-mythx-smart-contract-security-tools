@@ -9,17 +9,17 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 - [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector
 - [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
 
+## IDE
+
+- [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
+- [MythX Plugin for Embark Framework by Flex Dapps](https://github.com/flex-dapps/embark-mythx)
+- [Truffle Sca2t](https://github.com/tagomaru/truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
+
 ## Command line tools
 
 - [MythX API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
 - [Mythos](https://github.com/cleanunicorn/mythos) - CLI client for the MythX API
 - [Sabre](https://github.com/b-mueller/sabre) - Minimum viable JavaScript client
-
-## IDE
-
-- [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
-- [Truffle Sca2t](https://github.com/tagomaru/truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
-- [MythX Plugin for Embark Framework](https://github.com/flex-dapps/embark-mythx)
 
 ## Support and Documentation
 
