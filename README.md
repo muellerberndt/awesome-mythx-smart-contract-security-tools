@@ -1,4 +1,4 @@
-# Awesome MythX Smart Contract Security
+# Awesome MythX Smart Contract Security Tools
 
 [![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
