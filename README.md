@@ -4,11 +4,6 @@
 
 A curated list of resources and tools for the [MythX](https://mythx.io) smart contract security API.
 
-## Language Bindings
-
-- [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector
-- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
-
 ## IDE
 
 - [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
@@ -20,6 +15,11 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 - [MythX API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
 - [Mythos](https://github.com/cleanunicorn/mythos) - CLI client for the MythX API
 - [Sabre](https://github.com/b-mueller/sabre) - Minimum viable JavaScript client
+
+## Language Bindings
+
+- [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector
+- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
 
 ## Support and Documentation
 
