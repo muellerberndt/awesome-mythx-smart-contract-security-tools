@@ -10,6 +10,10 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 - [MythX Plugin for Embark](https://github.com/flex-dapps/embark-mythx) -  Security verification plugin for [Status Embark](https://embark.status.im) by [Flex Dapps](https://flexdapps.com)
 - [Truffle Sca2t](https://github.com/tagomaru/truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
 
+## Continuous Integration
+
+- [GitMythX](https://github.com/apps/gitmythx) - MythX Github app
+
 ## Command line tools
 
 - [MythX API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
