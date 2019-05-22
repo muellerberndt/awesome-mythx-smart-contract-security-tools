@@ -12,6 +12,7 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 
 ## Continuous Integration
 
+- [GuardRails](https://www.guardrails.io/en) - Realtime feedback on Github repositories powered by MythX
 - [GitMythX](https://github.com/apps/gitmythx) - MythX Github app
 
 ## Command line tools
