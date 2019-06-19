@@ -23,8 +23,10 @@ A curated list of resources and tools for the [MythX](https://mythx.io) smart co
 
 ## Language Bindings
 
-- [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector
+- [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript kibrary
 - [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
+- [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector **(deprecated)**
+
 
 ## Support and Documentation
 
