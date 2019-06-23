@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
-A curated list of resources and tools for the [MythX](https://mythx.io) smart contract security API.
+[MythX](https://mythx.io) is a smart contract security analysis API for that supports Ethereum, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. Here is a curated list of developer tools built on MythX.
 
 ## IDE
 
