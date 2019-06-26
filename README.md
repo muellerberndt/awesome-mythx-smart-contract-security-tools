@@ -24,7 +24,7 @@
 
 ## Language Bindings
 
-- [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript kibrary
+- [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript library
 - [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
 - [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector **(deprecated)**
 
