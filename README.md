@@ -27,7 +27,7 @@
 
 - [MythX API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
 - [Mythos](https://github.com/cleanunicorn/mythos) - CLI client for the MythX API
-- [Sabre](https://github.com/b-mueller/sabre) - Minimum viable JavaScript client
+- [Sabre](https://github.com/b-mueller/sabre) - Experimental JavaScript client
 
 ## Support and Documentation
 
