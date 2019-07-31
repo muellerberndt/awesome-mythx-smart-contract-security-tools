@@ -6,7 +6,7 @@
 
 ## IDE
 
-- [Remix IDE](https://remix.ethereum.org/) - Activate the "MythX Security Verification" module in plugin manager
+- [Remix IDE](https://remix.ethereum.org/) - Activate the "MythX Security Verification" module in plugin manager ([Howto](https://docs.mythx.io/en/latest/tools/remix/index.html))
 - [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
 - [MythX for VS Code](https://marketplace.visualstudio.com/items?itemName=mirkogarozzo.mythxvsc) - MythX Extension for Visual Studio Code
 - [MythX Plugin for Embark](https://github.com/flex-dapps/embark-mythx) -  Security verification plugin for [Status Embark](https://embark.status.im) by [Flex Dapps](https://flexdapps.com)
