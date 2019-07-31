@@ -8,6 +8,7 @@
 
 - [Remix IDE](https://remix.ethereum.org/) - Activate the "MythX Security Verification" module in plugin manager
 - [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
+- [MythX for VS Code](https://marketplace.visualstudio.com/items?itemName=mirkogarozzo.mythxvsc) - MythX Extension for Visual Studio Code
 - [MythX Plugin for Embark](https://github.com/flex-dapps/embark-mythx) -  Security verification plugin for [Status Embark](https://embark.status.im) by [Flex Dapps](https://flexdapps.com)
 - [Truffle Sca2t](https://github.com/tagomaru/truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
 
@@ -16,18 +17,17 @@
 - [GuardRails](https://www.guardrails.io/en) - Realtime feedback on Github repositories powered by MythX
 - [GitMythX](https://github.com/apps/gitmythx) - MythX Github app
 
-## Command line tools
-
-- [MythX API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
-- [Mythos](https://github.com/cleanunicorn/mythos) - CLI client for the MythX API
-- [Sabre](https://github.com/b-mueller/sabre) - Minimum viable JavaScript client
-
 ## Language Bindings
 
 - [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript library
 - [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
 - [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector **(deprecated)**
 
+## Command Line Tools
+
+- [MythX API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
+- [Mythos](https://github.com/cleanunicorn/mythos) - CLI client for the MythX API
+- [Sabre](https://github.com/b-mueller/sabre) - Minimum viable JavaScript client
 
 ## Support and Documentation
 
@@ -37,8 +37,8 @@
 
 ## Howtos
 
-- [Detecting Smart Contract Vulnerabilities with Mythx](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
 - [Automation of Smart Contract Auditing with MythX and CircleCI](https://blog.goodaudience.com/automation-of-smart-contract-auditing-with-mythx-and-circleci-for-continuous-integration-191ec7adfc94)
+- [Detecting Smart Contract Vulnerabilities with Mythx](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
 
 ## Papers and Articles
 
