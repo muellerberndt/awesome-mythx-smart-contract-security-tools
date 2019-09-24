@@ -12,22 +12,21 @@
 - [MythX Plugin for Embark](https://github.com/flex-dapps/embark-mythx) -  Security verification plugin for [Status Embark](https://embark.status.im) by [Flex Dapps](https://flexdapps.com)
 - [Truffle Sca2t](https://github.com/tagomaru/truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
 
-## Continuous Integration
+## Command-Line Tools
 
-- [GuardRails](https://www.guardrails.io/en) - Realtime feedback on Github repositories powered by MythX
-- [GitMythX](https://github.com/apps/gitmythx) - MythX Github app
+- [MythX CLI](https://github.com/dmuhs/mythx-cli) -  A simple Python client for the MythX API
+- [Mythos](https://github.com/cleanunicorn/mythos) - JavaScripgt CLI for the MythX API
+- [Sabre](https://github.com/b-mueller/sabre) - Experimental JavaScript client
 
 ## Language Bindings
 
 - [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript library
 - [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
-- [Armlet](https://github.com/ConsenSys/armlet) - MythX JavaScript connector **(deprecated)**
 
-## Command Line Tools
+## Continuous Integration
 
-- [MythX API CURL](https://github.com/rocky/mythril-api-curl/) - Shell scripts that interact with the MythX API
-- [Mythos](https://github.com/cleanunicorn/mythos) - CLI client for the MythX API
-- [Sabre](https://github.com/b-mueller/sabre) - Experimental JavaScript client
+- [GuardRails](https://www.guardrails.io/en) - Realtime feedback on Github repositories powered by MythX
+- [GitMythX](https://github.com/apps/gitmythx) - MythX Github app
 
 ## Support and Documentation
 
