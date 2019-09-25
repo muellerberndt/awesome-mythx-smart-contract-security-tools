@@ -22,7 +22,7 @@
 ## Language Bindings
 
 - [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript library
-- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform (with CLI)
+- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform
 
 ## Continuous Integration
 
