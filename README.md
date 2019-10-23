@@ -20,7 +20,7 @@
 
 ## Command-Line Tools
 
-- [MythX CLI](https://github.com/dmuhs/mythx-cli) -  A simple Python client for the MythX API
+- [MythX CLI](https://github.com/dmuhs/mythx-cli) -  Official command-line tool maintained by MythX
 - [Sabre](https://github.com/b-mueller/sabre) - JavaScript CLI for the MythX API
 - [Mythos](https://github.com/cleanunicorn/mythos) - Another JavaScript client for the MythX API
 
