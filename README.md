@@ -1,7 +1,7 @@
 # Awesome MythX Smart Contract Security Tools
 
 <p align="center">
-	<img src="mythx_powered.png" height="250px"/>
+	<img src="mythx_powered.png" height="200px"/>
 </p>
 
 
