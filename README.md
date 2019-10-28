@@ -55,4 +55,4 @@
 - [Harvey Paper - Learning Inputs in Greybox Fuzzing](https://arxiv.org/pdf/1807.07875.pdf)
 - [Intro to Symbolic Execution in Mythril](https://medium.com/@joran.honig/introduction-to-mythril-classic-and-symbolic-execution-ef59339f259b)
 - [Mythril Paper - Smashing Smart Contracts (HITB GSEC 2018)](https://conference.hitb.org/hitbsecconf2018ams/materials/D1T2%20-%20Bernhard%20Mueller%20-%20Smashing%20Ethereum%20Smart%20Contracts%20for%20Fun%20and%20ACTUAL%20Profit.pdf)
-- [Advanced in Smart Contract Security (DEFCON 27)](https://github.com/b-mueller/smashing-smart-contracts/blob/master/DEFCON27-EVM-Smart-Contracts-Mueller-Luca.pdf)
+- [Advances in Smart Contract Vulnerability Detection (DEFCON 27)](https://github.com/b-mueller/smashing-smart-contracts/blob/master/DEFCON27-EVM-Smart-Contracts-Mueller-Luca.pdf)
