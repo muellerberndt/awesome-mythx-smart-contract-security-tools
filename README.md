@@ -41,7 +41,7 @@
 
 ## Howtos and Articles
 
-- [Detecting Smart Contract Vulnerabilities with Mythx](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
+- [Detecting Smart Contract Vulnerabilities with MythX](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
 - [Checking Custom Correctness Properties of Smart Contracts Using MythX](https://medium.com/consensys-diligence/checking-custom-correctness-properties-of-smart-contracts-using-mythx-25cbac5d7852)
 - [Automation of Smart Contract Auditing with MythX and CircleCI](https://blog.goodaudience.com/automation-of-smart-contract-auditing-with-mythx-and-circleci-for-continuous-integration-191ec7adfc94)
 
