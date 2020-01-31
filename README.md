@@ -39,12 +39,12 @@
 - [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
 - [MythX Community Discord](https://discord.gg/kktn8Wt)
 
-## Howtos and Articles
+## Howtos
 
-- [Detecting Smart Contract Vulnerabilities with MythX](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
-- [Checking Custom Correctness Properties of Smart Contracts Using MythX](https://medium.com/consensys-diligence/checking-custom-correctness-properties-of-smart-contracts-using-mythx-25cbac5d7852)
-- [Automation of Smart Contract Auditing with MythX and CircleCI](https://blog.goodaudience.com/automation-of-smart-contract-auditing-with-mythx-and-circleci-for-continuous-integration-191ec7adfc94)
-
+- [Detecting Generic Smart Contract Vulnerabilities with MythX](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
+- [Checking Custom Security Properties with the MythX Plugin for Remix](https://medium.com/coinmonks/advanced-smart-contract-security-verification-in-remix-9630b43695e5)
+- [Checking Custom Correctness Properties of Smart Contracts Using the AssertionFailed Event](https://medium.com/consensys-diligence/checking-custom-correctness-properties-of-smart-contracts-using-mythx-25cbac5d7852)
+- [Using MythX in CircleCI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
 
 ## Articles & Papers
 
