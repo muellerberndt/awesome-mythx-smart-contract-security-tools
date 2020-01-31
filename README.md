@@ -7,9 +7,9 @@
 
 [![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
-[MythX](https://mythx.io) is a smart contract security analysis API for that supports Ethereum, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. This is a curated list of developer tools built on MythX.
+[MythX](https://mythx.io) is a smart contract security analysis API for that supports Ethereum, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. It uses static analysis, symbolic execution and input fuzzing to detect security bugs and verify the correctness of smart contract code. This is a curated list of developer tools and resources related to MythX.
 
-## IDE
+## IDEs with MythX support
 
 - [Remix IDE](https://remix.ethereum.org/) - Activate the "MythX Security Verification" module in plugin manager ([Howto](https://docs.mythx.io/en/latest/tools/remix/index.html))
 - [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
@@ -18,13 +18,13 @@
 - [MythX Plugin for Embark](https://github.com/flex-dapps/embark-mythx) -  Security verification plugin for [Status Embark](https://embark.status.im) by [Flex Dapps](https://flexdapps.com)
 - [Truffle Sca2t](https://github.com/tagomaru/truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
 
-## Command-Line Tools
+## Command-line tools
 
 - [MythX CLI](https://github.com/dmuhs/mythx-cli) -  Official command-line tool maintained by MythX
 - [Sabre](https://github.com/b-mueller/sabre) - JavaScript CLI for the MythX API
 - [Mythos](https://github.com/cleanunicorn/mythos) - Another JavaScript client for the MythX API
 
-## Language Bindings
+## Language bindings
 
 - [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript library
 - [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform
@@ -36,12 +36,12 @@
 - [Checking Custom Correctness Properties of Smart Contracts Using the AssertionFailed Event](https://medium.com/consensys-diligence/checking-custom-correctness-properties-of-smart-contracts-using-mythx-25cbac5d7852)
 - [Using MythX in CircleCI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
 
-## Support and Documentation
+## Support and documentation
 
 - [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
 - [MythX Community Discord](https://discord.gg/kktn8Wt)
 
-## Articles & Papers
+## Articles & papers
 
 - [The Tech Behind MythX](https://medium.com/consensys-diligence/the-tech-behind-mythx-smart-contract-security-analysis-32c849aedaef)
 - [Harvey Greybox Fuzzing Article Series](https://medium.com/consensys-diligence/finding-vulnerabilities-in-smart-contracts-175c56affe2)
