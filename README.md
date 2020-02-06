@@ -19,9 +19,9 @@
 
 ## Command-line tools
 
-- [MythX CLI](https://github.com/dmuhs/mythx-cli) -  Official command-line tool maintained by MythX
+- [MythX CLI](https://github.com/dmuhs/mythx-cli) -  Official command-line tool maintained by MythX the MythX team
 - [Sabre](https://github.com/b-mueller/sabre) - JavaScript CLI for the MythX API
-- [Mythos](https://github.com/cleanunicorn/mythos) - Another JavaScript client for the MythX API
+- [Mythos](https://github.com/cleanunicorn/mythos) - @ JavaScript client for the MythX API
 
 ## Howtos
 
