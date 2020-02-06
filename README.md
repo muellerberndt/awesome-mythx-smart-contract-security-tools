@@ -4,7 +4,6 @@
 	<img src="mythx_powered.png" height="200px"/>
 </p>
 
-
 [![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
 [MythX](https://mythx.io) is a smart contract security analysis API for that supports Ethereum, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. It uses static analysis, symbolic execution and input fuzzing to detect security bugs and verify the correctness of smart contract code. This is a curated list of developer tools and resources related to MythX.
@@ -24,22 +23,23 @@
 - [Sabre](https://github.com/b-mueller/sabre) - JavaScript CLI for the MythX API
 - [Mythos](https://github.com/cleanunicorn/mythos) - Another JavaScript client for the MythX API
 
-## Language bindings
-
-- [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript library
-- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform
-
 ## Howtos
 
 - [Detecting Generic Smart Contract Vulnerabilities with MythX](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
 - [Checking Custom Security Properties with the MythX Plugin for Remix](https://medium.com/coinmonks/advanced-smart-contract-security-verification-in-remix-9630b43695e5)
 - [Checking Custom Correctness Properties of Smart Contracts Using the AssertionFailed Event](https://medium.com/consensys-diligence/checking-custom-correctness-properties-of-smart-contracts-using-mythx-25cbac5d7852)
-- [Using MythX in CircleCI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
+- [Setting up MythX in CircleCI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
+- [Setting up MythX in Travis CI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
 
 ## Support and documentation
 
 - [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
 - [MythX Community Discord](https://discord.gg/kktn8Wt)
+
+## Language bindings
+
+- [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript library
+- [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform
 
 ## Articles & papers
 
