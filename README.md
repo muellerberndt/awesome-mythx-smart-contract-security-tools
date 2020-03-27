@@ -6,7 +6,7 @@
 
 [![Discord](https://img.shields.io/discord/481002907366588416.svg)](https://discord.gg/E3YrVtG)
 
-[MythX](https://mythx.io) is a smart contract security analysis API for that supports Ethereum, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. It uses static analysis, symbolic execution and input fuzzing to detect security bugs and verify the correctness of smart contract code. This is a curated list of developer tools and resources related to MythX.
+[MythX](https://mythx.io) is a smart contract security analysis API that supports Ethereum, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. It uses static analysis, symbolic execution and input fuzzing to detect security bugs and verify the correctness of smart contract code. This is a curated list of developer tools and resources related to MythX.
 
 ## IDEs with MythX support
 
