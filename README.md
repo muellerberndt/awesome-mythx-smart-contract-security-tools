@@ -12,7 +12,7 @@
 
 - [Remix IDE](https://remix.ethereum.org/) - Activate the "MythX Security Verification" module in plugin manager ([Howto](https://docs.mythx.io/en/latest/tools/remix/index.html))
 - [MythX Plugin for Truffle](https://github.com/ConsenSys/truffle-security) - Security verification plugin for the [Truffle Framework](https://truffleframework.com)
-- [MythX for VS Code](https://marketplace.visualstudio.com/items?itemName=mirkogarozzo.mythxvsc) - MythX Extension for Visual Studio Code
+- [MythX for VS Code](https://marketplace.visualstudio.com/items?itemName=MythX.mythxvsc) - MythX Extension for Visual Studio Code
 - [Brownie](https://github.com/iamdefinitelyahuman/brownie) - Python framework for Ethereum smart contract deployment ([native integration](https://eth-brownie.readthedocs.io/en/latest/tests-security-analysis.html))
 - [MythX Plugin for Embark](https://github.com/flex-dapps/embark-mythx) -  Security verification plugin for [Status Embark](https://embark.status.im) by [Flex Dapps](https://flexdapps.com)
 - [Truffle Sca2t](https://github.com/tagomaru/truffle-sca2t) - Smart contract audit assistant (generates Mocha test files for CI)
@@ -24,14 +24,17 @@
 - [Sabre](https://github.com/b-mueller/sabre) - JavaScript CLI for the MythX API
 - [Mythos](https://github.com/cleanunicorn/mythos) - Anoher MythX JavaScript client
 
+## Continuous integration howtos
+
+- [Setting up MythX in CircleCI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
+- [Setting up MythX in Travis CI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
+- [MythX in CI DIY Guide](https://blog.mythx.io/howto/part-3-mythx-heart-continuous-integration-diy/)
+
 ## Support and documentation
 
 - [MythX CLI Docs](https://mythx-cli.readthedocs.io/en/latest/)
 - [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
 - [MythX Community Discord](https://discord.gg/kktn8Wt)
-- [Setting up MythX in CircleCI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
-- [Setting up MythX in Travis CI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
-- [MythX in CI DIY Guide](https://blog.mythx.io/howto/part-3-mythx-heart-continuous-integration-diy/)
 
 ## Language bindings
 
@@ -43,7 +46,7 @@
 ### Awesome videos
 
 - [The Ether Wars (DEFCON 27 Conference Talk)](https://www.youtube.com/watch?v=Qd9ubry-c_M)
-- [Advanced in Smart Contract Vulnerability Detection (EthBerlin 2019 Conference Talk)](https://www.youtube.com/watch?v=6mtO9GfS91Q)
+- [Advances in Smart Contract Vulnerability Detection (EthBerlin 2019 Conference Talk)](https://www.youtube.com/watch?v=6mtO9GfS91Q)
 - [Detecting DeFi Composability Bugs (EthCC 2020 Conference Talk)](https://www.youtube.com/watch?v=WtE_goJ2n7Y&feature=youtu.be&t=155)
 - [Using MythX in Smart Contract Development (Webinar)](https://www.youtube.com/watch?v=j43w42r7_wk)
 
