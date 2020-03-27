@@ -24,32 +24,49 @@
 - [Sabre](https://github.com/b-mueller/sabre) - JavaScript CLI for the MythX API
 - [Mythos](https://github.com/cleanunicorn/mythos) - Anoher MythX JavaScript client
 
-## Howtos
-
-- [Detecting Generic Smart Contract Vulnerabilities with MythX](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
-- [Checking Custom Security Properties with the MythX Plugin for Remix](https://medium.com/coinmonks/advanced-smart-contract-security-verification-in-remix-9630b43695e5)
-- [Checking Custom Correctness Properties of Smart Contracts Using the AssertionFailed Event](https://medium.com/consensys-diligence/checking-custom-correctness-properties-of-smart-contracts-using-mythx-25cbac5d7852)
-- [Setting up MythX in CircleCI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
-- [Setting up MythX in Travis CI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
-
 ## Support and documentation
 
+- [MythX CLI Docs](https://mythx-cli.readthedocs.io/en/latest/)
 - [MythX Developer and User Guide](https://docs.mythx.io/en/latest/)
 - [MythX Community Discord](https://discord.gg/kktn8Wt)
+- [Setting up MythX in CircleCI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
+- [Setting up MythX in Travis CI](https://blog.mythx.io/howto/mythx-and-continuous-integration-part-1-circleci/)
+- [MythX in CI DIY Guide](https://blog.mythx.io/howto/part-3-mythx-heart-continuous-integration-diy/)
 
 ## Language bindings
 
 - [MythXJS](https://github.com/ConsenSys/mythxjs)  - MythX JavaScript library
 - [PythX](https://github.com/dmuhs/PythX) - A Python library for the MythX platform
 
-## Articles & papers
+## Articles, papers and videos
 
-- [The Tech Behind MythX](https://medium.com/consensys-diligence/the-tech-behind-mythx-smart-contract-security-analysis-32c849aedaef)
-- [Harvey Greybox Fuzzing Article Series](https://medium.com/consensys-diligence/finding-vulnerabilities-in-smart-contracts-175c56affe2)
-- [Fuzzing Smart Contracts Using Input Prediction](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-input-prediction-29b30ba8055c)
-- [Fuzzing Smart Contracts Using Multiple Transactions](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-multiple-transactions-51471e4b3c69)
-- [Intro to Symbolic Execution in Mythril](https://medium.com/@joran.honig/introduction-to-mythril-classic-and-symbolic-execution-ef59339f259b)
-- [Learning Inputs in Greybox Fuzzing](https://arxiv.org/pdf/1807.07875.pdf)
-- [Smashing Smart Contracts (HITB GSEC 2018)](https://conference.hitb.org/hitbsecconf2018ams/materials/D1T2%20-%20Bernhard%20Mueller%20-%20Smashing%20Ethereum%20Smart%20Contracts%20for%20Fun%20and%20ACTUAL%20Profit.pdf)
-- [Advances in Smart Contract Vulnerability Detection (DEFCON 27)](https://github.com/b-mueller/smashing-smart-contracts/blob/master/DEFCON27-EVM-Smart-Contracts-Mueller-Luca.pdf)
-- [Practical Mutation Testing in Smart Contracts](https://www.researchgate.net/publication/335937116_Practical_Mutation_Testing_for_Smart_Contracts)
+### Awesome videos
+
+- [The Ether Wars (DEFCON 27 Conference Talk)](https://www.youtube.com/watch?v=Qd9ubry-c_M)
+- [Detecting DeFi Composability Bugs (EthCC Conference Talk)](https://www.youtube.com/watch?v=WtE_goJ2n7Y&feature=youtu.be&t=155)
+- [Using MythX in Smart Contract Development (Webinar)](https://www.youtube.com/watch?v=j43w42r7_wk)
+
+### MythX bug detection and property checking
+
+- [Detecting Generic Smart Contract Vulnerabilities with MythX (Medium)](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
+- [Checking Custom Security Properties with the MythX Plugin for Remix (Medium)](https://medium.com/coinmonks/advanced-smart-contract-security-verification-in-remix-9630b43695e5)
+- [Checking Custom Correctness Properties of Smart Contracts Using the AssertionFailed Event (Medium)](https://medium.com/consensys-diligence/checking-custom-correctness-properties-of-smart-contracts-using-mythx-25cbac5d7852)
+- [The Tech Behind MythX (MythX blog)](https://blog.mythx.io/features/mythx-tech-behind-the-scenes-of-smart-contract-analysis/)
+
+### Symbolic execution / Mythril
+
+- [Intro to Symbolic Execution in Mythril (Medium)](https://medium.com/@joran.honig/introduction-to-mythril-classic-and-symbolic-execution-ef59339f259b)
+- [Smashing Smart Contracts (HITB GSEC 2018 / PDF)](https://conference.hitb.org/hitbsecconf2018ams/materials/D1T2%20-%20Bernhard%20Mueller%20-%20Smashing%20Ethereum%20Smart%20Contracts%20for%20Fun%20and%20ACTUAL%20Profit.pdf)
+- [Advances in Smart Contract Vulnerability Detection (DEFCON 27 / PDF)](https://github.com/b-mueller/smashing-smart-contracts/blob/master/DEFCON27-EVM-Smart-Contracts-Mueller-Luca.pdf)
+- [Multi-contract bug detection with Mythril (Medium)](https://blog.mythx.io/misc/easy-multi-contract-security-analysis-using-mythril/)
+
+### Grey-box fuzzing / Harvey
+
+- [Harvey Greybox Fuzzing Article Series (Medium)](https://medium.com/consensys-diligence/finding-vulnerabilities-in-smart-contracts-175c56affe2)
+- [Fuzzing Smart Contracts Using Input Prediction (Medium)](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-input-prediction-29b30ba8055c)
+- [Fuzzing Smart Contracts Using Multiple Transactions (Medium)](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-multiple-transactions-51471e4b3c69)
+- [Learning Inputs in Greybox Fuzzing (Arxiv)](https://arxiv.org/pdf/1807.07875.pdf)
+
+### Other
+ 
+- [Practical Mutation Testing in Smart Contracts (Springer)](https://link.springer.com/chapter/10.1007%2F978-3-030-31500-9_19)
