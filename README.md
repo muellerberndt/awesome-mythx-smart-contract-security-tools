@@ -43,7 +43,7 @@
 ### Awesome videos
 
 - [The Ether Wars (DEFCON 27 Conference Talk)](https://www.youtube.com/watch?v=Qd9ubry-c_M)
-- [Advanced in Smart Contract Vulerability Detection (EthBerlin 2019 Conference Talk)](https://www.youtube.com/watch?v=6mtO9GfS91Q)
+- [Advanced in Smart Contract Vulnerability Detection (EthBerlin 2019 Conference Talk)](https://www.youtube.com/watch?v=6mtO9GfS91Q)
 - [Detecting DeFi Composability Bugs (EthCC 2020 Conference Talk)](https://www.youtube.com/watch?v=WtE_goJ2n7Y&feature=youtu.be&t=155)
 - [Using MythX in Smart Contract Development (Webinar)](https://www.youtube.com/watch?v=j43w42r7_wk)
 
