@@ -70,6 +70,7 @@
 - [Fuzzing Smart Contracts Using Input Prediction (Medium)](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-input-prediction-29b30ba8055c)
 - [Fuzzing Smart Contracts Using Multiple Transactions (Medium)](https://medium.com/consensys-diligence/fuzzing-smart-contracts-using-multiple-transactions-51471e4b3c69)
 - [Detecting Reentrancy Issues in Smart Contracts Using Fuzzing (Medium)](https://medium.com/consensys-diligence/detecting-reentrancy-issues-in-smart-contracts-using-fuzzing-e81474ba3a2e)
+- [Targeted fuzzing using static lookahead analysis: how to guide fuzzers using online static analysis (MythX blog)](https://blog.mythx.io/misc/targeted-fuzzing-using-static-lookahead-analysis-how-to-guide-fuzzers-using-online-static-analysis/)
 - [Learning Inputs in Greybox Fuzzing (arXiv)](https://arxiv.org/pdf/1807.07875.pdf)
 - [Harvey: A Greybox Fuzzer for Smart Contracts (arXiv)](https://arxiv.org/pdf/1905.06944.pdf)
 - [Targeted Greybox Fuzzing with Static Lookahead Analysis (ICSE 2020)](https://mariachris.github.io/Pubs/ICSE-2020.pdf)
