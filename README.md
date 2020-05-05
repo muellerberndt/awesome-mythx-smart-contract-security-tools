@@ -43,12 +43,18 @@
 
 ## Articles, papers and videos
 
-### Awesome videos
+### Webinars
 
-- [The Ether Wars (DEFCON 27 Conference Talk)](https://www.youtube.com/watch?v=Qd9ubry-c_M)
-- [Advances in Smart Contract Vulnerability Detection (EthBerlin 2019 Conference Talk)](https://www.youtube.com/watch?v=6mtO9GfS91Q)
-- [Detecting DeFi Composability Bugs (EthCC 2020 Conference Talk)](https://www.youtube.com/watch?v=WtE_goJ2n7Y&feature=youtu.be&t=155)
-- [Using MythX in Smart Contract Development (Webinar)](https://www.youtube.com/watch?v=j43w42r7_wk)
+- [Using MythX in Smart Contract Development (January 2020)](https://www.youtube.com/watch?v=j43w42r7_wk)
+- [Validating Smart Contract Correctness (April 2020)](https://www.youtube.com/watch?v=T3WVCBp2DP4)
+
+### Presentation Videos
+
+- [The Ether Wars (DEFCON 27)](https://www.youtube.com/watch?v=Qd9ubry-c_M)
+- [Smashing Smart Contracts (HITB GSEC 2018)](https://www.youtube.com/watch?v=iqf6epACgds)
+- [Advances in Smart Contract Vulnerability Detection (EthBerlin 2019)](https://www.youtube.com/watch?v=6mtO9GfS91Q)
+- [Detecting DeFi Composability Bugs (EthCC 2020)](https://www.youtube.com/watch?v=WtE_goJ2n7Y&feature=youtu.be&t=155)
+- [Detecting DeFi Bugs and Arbitrage Opportunities Using Symbolic Execution (Parallele Polis 2020)](https://www.youtube.com/watch?v=B-RD1Pwoby0&feature=youtu.be)
 
 ### MythX bug detection and property checking
 
