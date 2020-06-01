@@ -47,6 +47,7 @@
 
 - [Using MythX in Smart Contract Development (January 2020)](https://www.youtube.com/watch?v=j43w42r7_wk)
 - [Validating Smart Contract Correctness (April 2020)](https://www.youtube.com/watch?v=T3WVCBp2DP4)
+- [Using the MythX Command Line Client in CI (May 2020)](https://www.youtube.com/watch?v=KkOi4vRzv_E) 
 
 ### Presentation Videos
 
