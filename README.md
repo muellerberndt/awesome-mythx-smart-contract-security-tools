@@ -59,6 +59,7 @@
 
 - [Detecting Generic Smart Contract Vulnerabilities with MythX (Medium)](https://medium.com/consensys-diligence/detecting-the-top-4-critical-smart-contract-vulnerabilities-with-mythx-9c568d7db7a6)
 - [Checking Custom Security Properties with the MythX Plugin for Remix (Medium)](https://medium.com/coinmonks/advanced-smart-contract-security-verification-in-remix-9630b43695e5)
+- [Catching Weird Security Bugs with Contract Invariants (Medium)](https://medium.com/@muellerberndt/catching-weird-security-bugs-in-solidity-smart-contracts-with-invariant-checks-435582dfb5bd)
 - [Checking Custom Correctness Properties of Smart Contracts Using the AssertionFailed Event (Medium)](https://medium.com/consensys-diligence/checking-custom-correctness-properties-of-smart-contracts-using-mythx-25cbac5d7852)
 - [The Tech Behind MythX (MythX blog)](https://blog.mythx.io/features/mythx-tech-behind-the-scenes-of-smart-contract-analysis/)
 
