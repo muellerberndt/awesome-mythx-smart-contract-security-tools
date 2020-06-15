@@ -20,7 +20,7 @@
 ## Command-line tools
 
 - [MythX CLI](https://github.com/dmuhs/mythx-cli) -  Official command-line tool maintained by the MythX team
-- [Solfuzz](https://github.com/b-mueller/solfuzz) - Assertion checker for Solidity smart contracts
+- [Sabre](https://github.com/b-mueller/sabre) - Security analyzer for Solidity smart contracts written in JavaScript
 
 ## Continuous integration howtos
 
